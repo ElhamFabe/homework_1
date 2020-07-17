@@ -33,7 +33,7 @@ added class to copyright for font size
 
 ```
 Url for GitHub repository
-git@github.com:ElhamFabe/homework_1.git
+https://github.com/ElhamFabe/homework_1
 
 Url to deployed application
 https://elhamfabe.github.io/homework_1/
